@@ -1,1 +1,1 @@
-# beer-app
+# Simple beer app - jQuery
